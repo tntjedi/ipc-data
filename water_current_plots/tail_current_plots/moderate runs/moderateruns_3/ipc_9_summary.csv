@@ -1,0 +1,8 @@
+metric,value
+time_to_goal_sec,485.0
+total_distance_m,128.041646819244
+goal_threshold_m,1.5
+max_speed,0.6968400975642195
+max_acc,7.172691474991585
+max_pitch_rate,0.1818643601456294
+max_yaw_rate,0.35526403457483496
